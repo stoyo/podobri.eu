@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Podobri
+        psr4_prefix: Podobri
+        src_path: app
