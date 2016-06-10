@@ -1,6 +1,7 @@
 # podobri.eu
-Подобри е интернет платформа, която позволява на всеки човек, регистриран или не, голям или малък, от Мелник или от София, да опише и локализира проблем от всякакво естество, да следи и коментира вече добавени проблеми и да предлага решения за тях.
 
-Интернет приложението е създадено с Laravel 5, Blade и Bootstrap.
+Podobri is an internet platform which allows people to describe and locate problems. The aim is to provide a single place where people can follow problems they are concerned about and suggest decisions.
+
+Built with Laravel 5, Blade and Bootstrap.
 
 https://podobri.eu
